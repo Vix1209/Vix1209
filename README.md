@@ -1,9 +1,7 @@
-### Hi there 👋
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Uchenna
 ===============================================================================================================================
 
-Fullstack Web Developer
+Fullstack Web Developer (BE Heavy)
 -----------------------
 
 I'm a developer with 2years of experience building fast and scalable interfaces using JavaScript, Typescript and Python as well as frameworks such as React and Django. I'm all about the logic accompanying a well outlined display of rich artistry, and it's definitely fulfilling🪄. I'm committed to writing clean and reusable codes while creating magic in the process.
