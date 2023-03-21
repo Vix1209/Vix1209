@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Uchenna
 ===============================================================================================================================
 
-Fullstack Web Developer (BE Heavy)
+Fullstack Web Developer
 -----------------------
 
 I'm a developer with 2years of experience building fast and scalable interfaces using JavaScript, Typescript and Python as well as frameworks such as React and Django. I'm all about the logic accompanying a well outlined display of rich artistry, and it's definitely fulfilling🪄. I'm committed to writing clean and reusable codes while creating magic in the process.
@@ -36,7 +36,7 @@ I'm a developer with 2years of experience building fast and scalable interfaces 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/vix1209" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/uchennaofor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/oforuchenna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/vix1209" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/uchenna-ofor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/oforuchenna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
