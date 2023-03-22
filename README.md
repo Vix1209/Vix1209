@@ -8,6 +8,8 @@ I'm a developer with almost 2 years of experience building fast and scalable web
 
 I'm all about a making magic with the flow of logic👨🏾‍💻 as well as well-sculpted displays of rich artistry🎨 in my web applications💨
 
+
+
 * 🌍  I'm based in Imo State, Nigeria
 * 🖥️  See my portfolio at [here](http://ucheofor.onrender.com)
 * ✉️  You can contact me at [ucheofor2015@gmail.com](mailto:ucheofor2015@gmail.com)
