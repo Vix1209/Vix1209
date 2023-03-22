@@ -13,7 +13,7 @@ I'm all about a making magic with the flow of logic👨🏾‍💻 as well as we
 * 🌍  I'm based in Imo State, Nigeria
 * 🖥️  See my portfolio at [here](http://ucheofor.onrender.com)
 * ✉️  You can contact me at [ucheofor2015@gmail.com](mailto:ucheofor2015@gmail.com)
-* 🧠  I'm learning React.js using Typescript
+* 🧠  I'm currently learning React.js using Typescript
 * 🤝  I'm open to collaborating on Frontend and Backend jobs
 * ⚡  I cherish goals, as well as Moments. That's why I aim high, while keeping the spirit alive.
 
