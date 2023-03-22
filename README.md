@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Web Developer 
 -----------------------
 
-I'm a developer with almost 2 years of experience building fast and scalable web interfaces using JavaScript, Typescript, and Python, as well as frameworks and libraries such as React, Django and so on.
+I'm a developer with almost 2 years of experience building fast, scalable and functioning websites using JavaScript, Typescript, and Python, as well as frameworks and libraries such as React, Django and so on.
 
-I'm all about a making magic with the flow of logic👨🏾‍💻 as well as well-sculpted displays of rich artistry🎨 in my web applications💨
+I'm all about making magic with the flow of logic, as well as well-sculpted displays of rich artistry, in my web applications💨
 
 
 
@@ -15,7 +15,7 @@ I'm all about a making magic with the flow of logic👨🏾‍💻 as well as we
 * ✉️  You can contact me at [ucheofor2015@gmail.com](mailto:ucheofor2015@gmail.com)
 * 🧠  I'm currently learning React.js using Typescript
 * 🤝  I'm open to collaborating on Frontend and Backend jobs
-* ⚡  I cherish goals, as well as Moments. That's why I aim high, while keeping the spirit alive.
+* ⚡  I cherish goals, as well as moments. That's why I aim high, while keeping the spirit alive.
 
 ### Skills
 
