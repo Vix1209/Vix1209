@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Web Developer 
 -----------------------
 
-I'm a developer with 2years of experience building fast and scalable interfaces using JavaScript, Typescript and Python as well as frameworks such as React and Django. I'm all about the logic accompanying a well outlined display of rich artistry, and it's definitely fulfilling🪄. I'm committed to writing clean and reusable codes while creating magic in the process.
+I'm a developer with almost 2years of experience building fast and scalable interfaces using JavaScript, Typescript and Python as well as frameworks such as React and Django. I'm all about the logic accompanying a well outlined display of rich artistry, and it's definitely fulfilling🪄. I'm committed to writing clean and reusable codes while creating magic in the process.
 
 * 🌍  I'm based in Imo State, Nigeria
 * 🖥️  See my portfolio at [here](http://ucheofor.onrender.com)
