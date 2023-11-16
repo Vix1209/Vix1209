@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Uchenna
 ===============================================================================================================================
 
-Software Engineer 
+Software Engineer || Data Scientist
 -----------------------
 
 I'm a developer with almost 2 years of experience building fast, scalable and functioning websites using JavaScript, Typescript, and Python, as well as frameworks and libraries such as React, Django and so on.
