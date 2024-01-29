@@ -4,9 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer || Data Scientist
 -----------------------
 
-I'm a developer with almost 3 years of experience building fast, scalable and functioning websites using JavaScript, Typescript, and Python, as well as frameworks and libraries such as React, Django and so on.
+I'm a Python & MERN developer with almost 3 years of experience building fast, scalable and functioning websites working with JavaScript, Typescript, and Python, as well as related frameworks and libraries. I'm all about making magic with the flow of logic, as well as well-sculpted displays of rich artistry, in my web applications💨
 
-I'm all about making magic with the flow of logic, as well as well-sculpted displays of rich artistry, in my web applications💨
+In the same vein, I explore the realms of AI and data science, geting insights from data and formulating automated scenarios and innovation for systems and applications.
+
+I'm a thinker, and a tinkerer. A learner, and a leader.
 
 
 
