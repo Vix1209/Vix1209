@@ -8,7 +8,7 @@ I'm a Python & MERN developer with almost 3 years of experience building fast, s
 
 In the same vein, I explore the realms of AI and data science, geting insights from data and formulating automated scenarios and innovation for systems and applications.
 
-I'm a thinker, and a tinkerer. A learner, and a leader.
+I'm a thinker, and a tinkerer. A learner, and a leader. 😮‍💨
 
 
 
