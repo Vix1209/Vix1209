@@ -4,18 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer || Data Scientist
 -----------------------
 
-I'm a Python & MERN developer with almost 3 years of experience building fast, scalable and functioning websites working with JavaScript, Typescript, and Python, as well as related frameworks and libraries. I'm all about making magic with the flow of logic, as well as well-sculpted displays of rich artistry, in my web applications💨
+I'm a Python & MERN developer with experience building fast, scalable and functioning websites. 
+I'm all about making magic with the flow of logic, in my web applications💨, I'm a thinker, and a tinkerer. A learner, and a leader. 😮‍💨
 
-In the same vein, I explore the realms of AI and data science, geting insights from data and formulating automated scenarios and innovation for systems and applications.
-
-I'm a thinker, and a tinkerer. A learner, and a leader. 😮‍💨
-
+Currently exploring the realms of AI and data science, getting insights from data and formulating automated scenarios and innovation for systems and applications. As well as uniting the worlds of Software, IoT and AI. 
 
 
-* 🌍  I'm based in Imo State, Nigeria
+
+* 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [here](http://ucheofor.onrender.com)
 * ✉️  You can contact me at [ucheofor2015@gmail.com](mailto:ucheofor2015@gmail.com)
-* 🧠  I'm currently exploring the world of Data Science.
 * 🤝  I'm open to collaborating on diverse roles either in the data realm or software space
 * ⚡  I cherish goals, as well as moments. That's why I aim high, while keeping the spirit alive.
 
