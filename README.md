@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer || Data Scientist
 -----------------------
 
-I'm a Python & MERN developer with experience building fast, scalable and functioning websites. 
+I'm a software engineer with experience building fast, scalable and functioning websites. 
 I'm all about making magic with the flow of logic, in my web applications💨, I'm a thinker, and a tinkerer. A learner, and a leader. 😮‍💨
 
 Currently exploring the realms of AI and data science, getting insights from data and formulating automated scenarios and innovation for systems and applications. As well as uniting the worlds of Software, IoT and AI. 
