@@ -6,7 +6,6 @@ I'm a software developer with experience building fast, scalable and functioning
 Currently exploring the realms of AI and data science, getting insights from data and formulating automated scenarios and innovation for systems and applications. As well as uniting the worlds of Software, IoT and AI.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [https://ucheofor.orender.com](http://ucheofor.onrender.com)
 * ✉️  You can contact me at [ucheofor2015@gmail.com](mailto:ucheofor2015@gmail.com)
 * 🧠  I'm learning Data science at Alx Africa
 * 🤝  I'm open to collaborating on Data science and Software development projects
