@@ -3,12 +3,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a software developer with experience building fast, scalable and functioning websites. I'm all about making magic with the flow of logic, in my web applications💨. 
 
-Currently exploring the realms of AI and data science, getting insights from data and formulating automated scenarios and innovation for systems and applications. As well as uniting the worlds of Software, IoT and AI.
+Just concluded a 13 months certificate course on data science at Alx Africa. Verify [here](https://savanna.alxafrica.com/certificates/S57N3mLz8J)
+
+Currently exploring the realms of Backend engineering and devOps. Carving a nitch within the world of systems architecture, logic, AI, and software development. 
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [ucheofor2015@gmail.com](mailto:ucheofor2015@gmail.com)
-* 🧠  I'm learning Data science at Alx Africa
-* 🤝  I'm open to collaborating on Data science and Software development projects
+* 🧠  I'm learning Golang Programming Language. 
+* 🤝  I'm open to collaborating on AI and Software development projects
 * ⚡  I'm a thinker, and a tinkerer. A learner, and a leader. 😮‍💨
 
 ### Skills
