@@ -1,7 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Uchenna Ofor
 ====================================================================================================================================
 
-I'm a software developer with experience building fast, scalable and functioning websites. I'm all about making magic with the flow of logic, in my web applications💨. 
+I'm a versatile Software Engineer with strong focus on Backend Development and Systems Architecture. Passionate about sustainable technology, 
+
+automated systems and lightning-fast user experiences. I'm all about making magic with the flow of logic, in my systems💨. 
 
 Just concluded a 13 months certificate course on data science at Alx Africa. Verify [here](https://savanna.alxafrica.com/certificates/S57N3mLz8J)
 
