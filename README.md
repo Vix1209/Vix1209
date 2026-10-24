@@ -10,7 +10,8 @@ Currently exploring the realms of Backend engineering and devOps. Carving a nitc
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [ucheofor2015@gmail.com](mailto:ucheofor2015@gmail.com)
-* 🧠  I'm learning Golang Programming Language. 
+* 🛠️  Building Obiudo: a NestJS book-of-record service and a Go execution service over gRPC
+* 📚  Deepening platform engineering through the TS Academy DevOps programme
 * 🤝  I'm open to collaborating on AI and Software development projects
 * ⚡  I'm a thinker, and a tinkerer. A learner, and a leader. 😮‍💨
 
